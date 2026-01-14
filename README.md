@@ -45,8 +45,8 @@
 
     <div class="content-box">
         <h1>HTML Webpage</h1>
-        <p>we were founded when my father deided he wanted a lether vest. however every shop he went to either charged too much for a product or had an extremly poor product that would often brek the next day. this is when he decided to found leather works leather shop. we offer a well made product at a fair price just as my fater did when he first opened in 1980.</p>
+        <p>We were founded when my Father deided he wanted a lether vest. However every shop he went to either charged too much for a product or had an extremly poor product that would often brek the next day. This is when he decided to found leather works leather shop. We offer a well made product at a fair price just as my fater did when he first opened in 1980.</p>
     </div>
- <a href="https://elicair.github.io/expir/" class="home-button">Go to Home Page</a>
+ <a href=" https://elicair.github.io/leather/" class="home-button">Go to Home Page</a>
 </body>
 </html>
